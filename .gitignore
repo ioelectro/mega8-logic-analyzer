@@ -1,6 +1,8 @@
 Debug
 Release
 *~
+*.cof
+project.txt
 
 # Prerequisites
 *.d

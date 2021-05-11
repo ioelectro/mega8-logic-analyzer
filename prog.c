@@ -1,6 +1,9 @@
 /*
  By Liyanboy74
  https://github.com/liyanboy74
+ 
+ F_CPU=8000000UL
+ Data Stack Size = 100 Byte
 */
 
 #include <mega8.h>
